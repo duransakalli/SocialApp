@@ -1,0 +1,5 @@
+insert into Location values(1, 'Budapest Hungary')
+insert into Location values(2, 'Los Angeles USA')
+insert into Location values(3, 'Vancouver Canada')
+insert into Location values(4, 'New York USA')
+insert into Location values(5, 'Paris France')
